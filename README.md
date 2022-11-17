@@ -1,4 +1,4 @@
-## intro to cpu architecture and security
+## intro to CPU architecture and security
 
 
 
@@ -8,6 +8,7 @@
 - [ ] [How Computers Really Work]()
 - [ ] [ Computer Organization and Architecture - William Stallings]()
 - [ ] [ - Tanenbaum]()
+- [ ] [Computer Architecture and Security](http://www.iqytechnicalcollege.com/Computer%20Architecture%20and%20Security.pdf)
 
 ### courses & materials
 
@@ -31,15 +32,23 @@
 - [ ] [Inside the CPU - Computerphile](https://www.youtube.com/watch?v=IAkj32VPcUE)
 - [ ] [Physics of Computer Chips - Computerphile](https://www.youtube.com/watch?v=xkLAhU74f3s)
 - [ ] [The Fetch-Execute Cycle - Tom Scott](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)
-- [ ] [Design Your Own CPU Instruction Set](https://www.youtube.com/watch?v=wjHlvQfo5uI)
+- [ ] [Coding Communication & CPU Microarchitectures](https://www.youtube.com/watch?v=FkeRMQzD-0Y)
 - [ ] [Evolution Of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
 
+### programming
+- [ ] [Design Your Own CPU Instruction Set](https://www.youtube.com/watch?v=wjHlvQfo5uI)
+- [ ] [Building A CPU From Scratch](https://www.youtube.com/playlist?list=PLilenfQGj6CEG6iZ4TQJ10PI7pCWsy1AO)
+
 ### CPU vulnerabilities
+- [ ] [[Red Hat] Understanding Microarchitectural Data Sampling (aka MDS, ZombieLoad, RIDL & Fallout)](https://www.youtube.com/watch?v=Xn-wY6Ir1hw)
 - [ ] [Discover vulnerabilities in Intel CPUs - LiveOverflow](https://www.youtube.com/watch?v=x_R1DeZxGc0)
 - [ ] [How CPUs Access Hardware - Another SerenityOS Exploit](https://www.youtube.com/watch?v=1hpqiWKFGQs)
 - [ ] [[Blackhat] The Memory Sinkhole - Unleashing An X86 Design Flaw Allowing Universal Privilege Escalation](https://www.youtube.com/watch?v=lR0nh-TdpVg)
 - [ ] [[Blackhat] Breaking the x86 Instruction Set - Chris Domas](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 - [ ] [[Blackhat] GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY)
+- [ ] [Exploiting vulnerabilities in the CPU microcode - Pedro Candel](https://www.youtube.com/watch?v=V_C0y-fh1Cw)
+- [ ] [Microarchitectural Incontinence - Daniel Gruss](https://www.youtube.com/watch?v=cAWmNp3Ukqk)
 
 ### papers
 - [ ] [Microarchitectural attacks and Countermeasures](https://www.diva-portal.org/smash/get/diva2:483610/FULLTEXT01.pdf)
+- [ ] [SPECULOSE: Analyzing the Security Implications of Speculative Execution in CPUs](https://arxiv.org/pdf/1801.04084.pdf)
