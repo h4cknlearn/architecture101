@@ -24,6 +24,7 @@ So I decided to use this repo to gather all info I could about this topic in one
 - [ ] [Computer Architecture Complete Course](https://www.youtube.com/watch?v=9nuAjYRbITQ)
 - [ ] [CS50 Lectures](https://www.youtube.com/watch?v=8mAITcNt710)
 - [ ] [Digital Design & Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
+- [ ] [Como computadores funcionam? Playlist [PT-BR]](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W)
 - [ ] [How do computers work?](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
 - [ ] [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq)
 - [ ] [Build a 65c02-based computer from scratch](https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH)
