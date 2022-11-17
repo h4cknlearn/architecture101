@@ -49,6 +49,8 @@ So I decided to use this repo to gather all info I could about this topic in one
 - [ ] [A hackers tour of the x86 CPU architecture](https://www.secureideas.com/blog/2021/04/a-hackers-tour-of-the-x86-cpu-architecture.html)
 - [ ] [Stanford CS155 - Processor Security](https://cs155.stanford.edu/lectures/17-processor.pdf)
 - [ ] [The purpose of the CPU](https://www.bbc.co.uk/bitesize/guides/zhppfcw/revision/1)
+- [ ] [How to Benchmark Code Execution Times on Intel® IA-32 and IA-64 Instruction Set Architectures](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf)
+- [ ] [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
 
 ### programming
 - [ ] [Design Your Own CPU Instruction Set](https://www.youtube.com/watch?v=wjHlvQfo5uI)
@@ -70,7 +72,7 @@ So I decided to use this repo to gather all info I could about this topic in one
 
 **articles & blogs**
 - [ ] [Side Channel Vulnerabilities: Microarchitectural Data Sampling and Transactional Asynchronous Abort](https://www.intel.com/content/www/us/en/architecture-and-technology/mds.html)
-- [ ] [Intel software security guidance](https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/overview.html)
+- [ ] [Intel Software Security Guidance](https://www.intel.com/content/www/us/en/developer/topic-technology/software-security-guidance/overview.html)
 - [ ] [Foreshadow - Breaking the virtual memory abstraction with transient out-of-order execution](https://foreshadowattack.eu/)
 - [ ] [LVI - Hijacking transient execution with load value injection](https://lviattack.eu/)
 - [ ] [MDS: Microarchitectural Data Sampling](https://mdsattacks.com/)
