@@ -1,8 +1,15 @@
-## intro to CPU architecture and security
+## Introduction to CPU architecture and security
+
+💬 *This repository aims to collect content and multiple materials on CPU's security and exploitation:<br>
+mostly on how CPUs work and are designed and security vulnerabilities and attacks raised by its default implementation.*<br>
+
+*CPU architecture and vulnerabilities are one of my main interest subjects.<br>
+So I decided to use this repo to gather all info I could about this topic in one place*
+
+*Enjoy! (:*
 
 
-
-## how computers work?
+## 0x00 how computers work?
 
 ### books
 - [ ] [How Computers Really Work](https://www.amazon.com/Amps-Apps-How-Computers-Work/dp/1718500661)
