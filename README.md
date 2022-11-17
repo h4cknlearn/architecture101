@@ -87,7 +87,7 @@ So I decided to use this repo to gather all info I could about this topic in one
 **tools & exploits**
 - [ ] [Portsmash](https://github.com/bbbrumley/portsmash)
 
-### papers
+**papers**
 - [ ] [Microarchitectural attacks and Countermeasures](https://www.diva-portal.org/smash/get/diva2:483610/FULLTEXT01.pdf)
 - [ ] [Speculose: Analyzing the Security Implications of Speculative Execution in CPUs](https://arxiv.org/pdf/1801.04084.pdf)
 - [ ] [Platypus: Software-based Power Side-Channel Attacks on x86](https://platypusattack.com/platypus.pdf)
