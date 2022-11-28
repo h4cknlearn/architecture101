@@ -13,9 +13,11 @@ So I decided to use this repo to gather all info I could about this topic in one
 
 ### books
 - [ ] [How Computers Really Work](https://www.amazon.com/Amps-Apps-How-Computers-Work/dp/1718500661)
-- [ ] [ Computer Organization and Architecture - William Stallings]()
-- [ ] [Modern operating systems - Tanenbaum](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
-- [ ] [Structured computer organization - Tanenbaum](https://www.pearson.com/en-us/subject-catalog/p/structured-computer-organization/P200000003183/9780137618446)
+- [ ] [ Computer Organization and Architecture | William Stallings]()
+- [ ] [Modern operating systems | Tanenbaum](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
+- [ ] [Computer Architecture: A Quantitative Approach](https://www.amazon.com.br/Computer-Architecture-Quantitative-Approach-Kaufmann-ebook/dp/B078MFDTX4/ref=sr_1_1?keywords=computer+architecture&qid=1669671838&qu=eyJxc2MiOiIyLjc5IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-1&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147)
+- [ ] [Structured computer organization | Tanenbaum](https://www.pearson.com/en-us/subject-catalog/p/structured-computer-organization/P200000003183/9780137618446)
+- [ ] [Modern Processor Design: Fundamentals of Superscalar Processors](http://acs.pub.ro/~cpop/SMPA/Modern%20Processor%20Design_%20Fundamentals%20of%20Superscalar%20Processors%20(%20PDFDrive%20).pdf) 
 - [ ] [Computer Architecture and Security](http://www.iqytechnicalcollege.com/Computer%20Architecture%20and%20Security.pdf)
 
 ### courses & materials
@@ -23,7 +25,7 @@ So I decided to use this repo to gather all info I could about this topic in one
 **videos/series**
 - [ ] [Computer Architecture Complete Course](https://www.youtube.com/watch?v=9nuAjYRbITQ)
 - [ ] [CS50 Lectures](https://www.youtube.com/watch?v=8mAITcNt710)
-- [ ] [Digital Design & Computer Architecture - ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
+- [ ] [Digital Design & Computer Architecture | ETH Zürich](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
 - [ ] [Como computadores funcionam? Playlist [PT-BR]](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W)
 - [ ] [How do computers work?](https://www.youtube.com/watch?v=7J7X7aZvMXQ)
 - [ ] [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq)
@@ -37,13 +39,14 @@ So I decided to use this repo to gather all info I could about this topic in one
 ### videos/series
 - [ ] [CPU Design series](https://www.youtube.com/playlist?list=PLqCJpWy5Fohdz6Nu2yG6Loubocqk3sRNR)
 - [ ] [Architecture All Access - Intel Series](https://www.youtube.com/playlist?list=PL8t1FdN2Tj3ZVAzTY-FvsS0qy-mEfRdoj)
-- [ ] [How A CPU Works | The CPU Explained](https://www.youtube.com/watch?v=XQq_1yaVDpM)
-- [ ] [How a CPU works - In One Lesson](https://www.youtube.com/watch?v=cNN_tTXABUA)
-- [ ] [Inside the CPU - Computerphile](https://www.youtube.com/watch?v=IAkj32VPcUE)
-- [ ] [Physics of Computer Chips - Computerphile](https://www.youtube.com/watch?v=xkLAhU74f3s)
-- [ ] [The Fetch-Execute Cycle - Tom Scott](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)
+- [ ] [How A CPU Works - The CPU Explained](https://www.youtube.com/watch?v=XQq_1yaVDpM)
+- [ ] [How a CPU works | In One Lesson](https://www.youtube.com/watch?v=cNN_tTXABUA)
+- [ ] [Inside the CPU | Computerphile](https://www.youtube.com/watch?v=IAkj32VPcUE)
+- [ ] [Physics of Computer Chips | Computerphile](https://www.youtube.com/watch?v=xkLAhU74f3s)
+- [ ] [The Fetch-Execute Cycle | Tom Scott](https://www.youtube.com/watch?v=Z5JC9Ve1sfI)
 - [ ] [Coding Communication & CPU Microarchitectures](https://www.youtube.com/watch?v=FkeRMQzD-0Y)
 - [ ] [Evolution Of CPU Processing Power](https://www.youtube.com/playlist?list=PLC7a8fNahjQ8IkiD5f7blIYrro9oeIfJU)
+- [ ] [Everything you want to know about x86 microcode, but might have been afraid to ask](https://www.youtube.com/watch?v=lY5kucyhKFc)
 
 ### docs & articles
 - [ ] [Understanding the fundamentals of CPU architecture ](https://uu.diva-portal.org/smash/get/diva2:1217222/FULLTEXT01.pdf)
@@ -57,19 +60,24 @@ So I decided to use this repo to gather all info I could about this topic in one
 - [ ] [Design Your Own CPU Instruction Set](https://www.youtube.com/watch?v=wjHlvQfo5uI)
 - [ ] [Building A CPU From Scratch](https://www.youtube.com/playlist?list=PLilenfQGj6CEG6iZ4TQJ10PI7pCWsy1AO)
 
-### CPU vulnerabilities
+### CPU vulnerabilities & security
 
 **videos/conferences**
 - [ ] [[Red Hat] Understanding Microarchitectural Data Sampling (aka MDS, ZombieLoad, RIDL & Fallout)](https://www.youtube.com/watch?v=Xn-wY6Ir1hw)
-- [ ] [Discover vulnerabilities in Intel CPUs - LiveOverflow](https://www.youtube.com/watch?v=x_R1DeZxGc0)
+- [ ] [Discover vulnerabilities in Intel CPUs | LiveOverflow](https://www.youtube.com/watch?v=x_R1DeZxGc0)
 - [ ] [How CPUs Access Hardware - Another SerenityOS Exploit](https://www.youtube.com/watch?v=1hpqiWKFGQs)
 - [ ] [[Blackhat] The Memory Sinkhole - Unleashing An X86 Design Flaw Allowing Universal Privilege Escalation](https://www.youtube.com/watch?v=lR0nh-TdpVg)
-- [ ] [[Blackhat] Breaking the x86 Instruction Set - Chris Domas](https://www.youtube.com/watch?v=KrksBdWcZgQ)
+- [ ] [[Blackhat] Breaking the x86 Instruction Set | Chris Domas](https://www.youtube.com/watch?v=KrksBdWcZgQ)
 - [ ] [[Blackhat] GOD MODE UNLOCKED - Hardware Backdoors in x86 CPUs](https://www.youtube.com/watch?v=_eSAF_qT_FY)
-- [ ] [Exploiting vulnerabilities in the CPU microcode - Pedro Candel](https://www.youtube.com/watch?v=V_C0y-fh1Cw)
-- [ ] [Microarchitectural Incontinence - Daniel Gruss](https://www.youtube.com/watch?v=cAWmNp3Ukqk)
+- [ ] [Exploiting vulnerabilities in the CPU microcode | Pedro Candel](https://www.youtube.com/watch?v=V_C0y-fh1Cw)
+- [ ] [Abusing AMD Microcode for fun and security](https://www.youtube.com/watch?v=W3FbTMqYi4U)
+- [ ] [Microarchitectural Incontinence | Daniel Gruss](https://www.youtube.com/watch?v=cAWmNp3Ukqk)
 - [ ] [[RSA Conference] Spectre Attacks: Exploiting Speculative Execution](https://www.youtube.com/watch?v=NnbDolQSF2c)
 - [ ] [[IEEE Symposium] RIDL: Rogue In-Flight Data Load](https://www.youtube.com/watch?v=1Y0h4JyK3fs)
+- [ ] [[BSides] Understanding Hardware Vulnerabilities](https://www.youtube.com/watch?v=Sx_deKGiuaI)
+- [ ] [[No Hat 2020] Exploiting vulnerabilities in Intel ACMs | Alexander Ermolov & Dmitriy Frolov](https://www.youtube.com/watch?v=1nF4O1vSchE)
+- [ ] [Under the hood of a CPU: Reverse Engineering the P6 microcode | Peter Bosch](https://www.youtube.com/watch?v=4oFOpDflJMA)
+- [ ] [[HACKADAY] Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff ](https://www.youtube.com/watch?v=aHx-XUA6f9g)
 
 **articles & blogs**
 - [ ] [Side Channel Vulnerabilities: Microarchitectural Data Sampling and Transactional Asynchronous Abort](https://www.intel.com/content/www/us/en/architecture-and-technology/mds.html)
