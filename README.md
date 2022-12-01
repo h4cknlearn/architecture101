@@ -78,6 +78,7 @@ So I decided to use this repo to gather all info I could about this topic in one
 - [ ] [[No Hat 2020] Exploiting vulnerabilities in Intel ACMs | Alexander Ermolov & Dmitriy Frolov](https://www.youtube.com/watch?v=1nF4O1vSchE)
 - [ ] [Under the hood of a CPU: Reverse Engineering the P6 microcode | Peter Bosch](https://www.youtube.com/watch?v=4oFOpDflJMA)
 - [ ] [[HACKADAY] Reading Silicon: How to Reverse Engineer Integrated Circuits | Ken Shirriff ](https://www.youtube.com/watch?v=aHx-XUA6f9g)
+- [ ] [[Ekoparty 2022] Exec ASLR: Abusing intel branch predictors to bypass ASLR](https://www.youtube.com/watch?v=Qj4z-KvnkxU)
 
 **articles & blogs**
 - [ ] [Side Channel Vulnerabilities: Microarchitectural Data Sampling and Transactional Asynchronous Abort](https://www.intel.com/content/www/us/en/architecture-and-technology/mds.html)
