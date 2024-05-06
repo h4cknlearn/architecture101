@@ -62,7 +62,7 @@ So I decided to use this repo to gather all info I could about this topic in one
 
 ### CPU vulnerabilities & security
 
-**videos/conferences**
+**talks/conferences**
 - [ ] [[Red Hat] Understanding Microarchitectural Data Sampling (aka MDS, ZombieLoad, RIDL & Fallout)](https://www.youtube.com/watch?v=Xn-wY6Ir1hw)
 - [ ] [Discover vulnerabilities in Intel CPUs | LiveOverflow](https://www.youtube.com/watch?v=x_R1DeZxGc0)
 - [ ] [How CPUs Access Hardware - Another SerenityOS Exploit](https://www.youtube.com/watch?v=1hpqiWKFGQs)
@@ -96,12 +96,23 @@ So I decided to use this repo to gather all info I could about this topic in one
 
 **tools & exploits**
 - [ ] [Portsmash](https://github.com/bbbrumley/portsmash)
+- [ ] [angr framework](https://angr.io/)
 
-**papers**
-- [ ] [Reverse Engineering x86 Processor Microcode](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-koppe.pdf)
-- [ ] [Microarchitectural attacks and Countermeasures](https://www.diva-portal.org/smash/get/diva2:483610/FULLTEXT01.pdf)
+**papers: bugs/vulns**
 - [ ] [Speculose: Analyzing the Security Implications of Speculative Execution in CPUs](https://arxiv.org/pdf/1801.04084.pdf)
 - [ ] [Platypus: Software-based Power Side-Channel Attacks on x86](https://platypusattack.com/platypus.pdf)
 - [ ] [Plundervolt: Software-based Fault Injection Attacks against Intel SGX](https://plundervolt.com/doc/plundervolt.pdf)
+- [ ] [Spectre Attacks: Exploiting Speculative Execution](https://spectreattack.com/spectre.pdf)
 - [ ] [SgxPectre Attacks: Stealing Intel Secrets from SGX Enclaves via Speculative Execution](https://arxiv.org/pdf/1802.09085.pdf)
 - [ ] [Spectre Returns! Speculation Attacks using the Return Stack Buffer](https://arxiv.org/pdf/1807.07940.pdf)
+- [ ] [Meltdown: reading kernel memory from user space](https://meltdownattack.com/meltdown.pdf)
+- [ ] [Zenbleed](https://lock.cmpxchg8b.com/zenbleed.html)
+- [ ] [Retbleed: Arbitrary Speculative Code Execution with Return Instructions](https://comsec.ethz.ch/wp-content/files/retbleed_sec22.pdf)
+- [ ] [FLUSH+RELOAD: a High Resolution, Low Noise, L3 Cache Side-Channel Attack](https://eprint.iacr.org/2013/448.pdf)
+- [ ] [INCEPTION: Exposing New Attack Surfaces with Training in Transient Execution](https://comsec.ethz.ch/wp-content/files/inception_sec23.pdf)
+- [ ] [Phantom: Exploiting Decoder-detectable Mispredictions](https://comsec.ethz.ch/wp-content/files/phantom_micro23.pdf)
+
+**papers: techniques**
+- [ ] [Speculation at Fault: Modeling and Testing Microarchitectural Leakage of CPU Exceptions](https://www.usenix.org/system/files/usenixsecurity23-hofmann.pdf)
+- [ ] [Microarchitectural attacks and Countermeasures](https://www.diva-portal.org/smash/get/diva2:483610/FULLTEXT01.pdf)
+- [ ] [Reverse Engineering x86 Processor Microcode](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-koppe.pdf)
