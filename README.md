@@ -1,4 +1,4 @@
-## Introduction to CPU architecture and security
+## Introduction to CPU microarchitecture and security
 
 💬 *This repository aims to collect content and multiple materials on CPU's security and exploitation:<br>
 mostly on how CPUs work and are designed and security vulnerabilities and attacks raised by its default implementation.*<br>
